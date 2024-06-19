@@ -1,2 +1,2 @@
 # GoalSpeed
-RLBot Plugin that displays the goal speed
+RLBot Plugin that displays the goal speed in km/h
